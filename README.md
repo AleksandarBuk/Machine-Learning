@@ -1,2 +1,2 @@
-# Different ML Models
-  Testing and experimenting on different ML models
+# Machine Learning Library
+  Testing of different Machine Learning techonologies.
