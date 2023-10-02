@@ -1,2 +1,2 @@
 # Machine Learning Library
-  `tools present`Scikit-Learn, NumPy, Tensorflow, Pytorch
+  `tools used in the Repository` Scikit-Learn, NumPy, Tensorflow, Pytorch
